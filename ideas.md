@@ -1,4 +1,4 @@
-## Školení ICTpro
+# Školení ICTpro
 
 ## Test
 - pull request
